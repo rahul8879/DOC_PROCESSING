@@ -1,0 +1,24 @@
+# Ignore Python virtual environment
+backend/venv/
+backend/.env
+
+# Ignore Node modules and build files
+front-end/kyc/node_modules/
+frontend/.env
+frontend/build/
+kyc-env
+
+# General system files
+.DS_Store
+*.log
+*.tmp
+*.swp
+__pycache__/
+*.pyc
+
+# IDE configuration files
+.idea/
+.vscode/
+
+# Environment variables and secrets
+.env

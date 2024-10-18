@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+matplotlib
+pillow
+opencv-python
+jupyter
+fastapi
+uvicorn[standard]
+pytesseract
+transformers
+requests
