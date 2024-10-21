@@ -1,0 +1,9 @@
+.admin-portal {
+    font-family: Arial, sans-serif;
+}
+
+.card-header,
+.btn-primary {
+    color: #00338d;
+    background-color: #ffb600;
+}
