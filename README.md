@@ -117,3 +117,4 @@ kyc_doc/
 - **Authentication**: Add login and authentication to ensure only authorized users can access the portal.
 - **Multi-File Upload**: Add support for batch processing of documents.
 - **Deployment**: Deploy the application using Docker and container orchestration tools like Kubernetes.
+"# DOC_PROCESSING" 
