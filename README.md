@@ -1,4 +1,4 @@
-# Document AI Admin Portal
+# Document AI Portal
 
 This project is for extracting KYC information from documents, built using **FastAPI** as the backend and **ReactJS** for the frontend. The application allows users to upload KYC documents, extract necessary information, and display it in a professional, user-friendly interface.
 
